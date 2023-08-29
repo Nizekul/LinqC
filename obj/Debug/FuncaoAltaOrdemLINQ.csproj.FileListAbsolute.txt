@@ -1,0 +1,8 @@
+C:\Users\lglaj\source\repos\FuncaoAltaOrdemLINQ\FuncaoAltaOrdemLINQ\bin\Debug\FuncaoAltaOrdemLINQ.exe.config
+C:\Users\lglaj\source\repos\FuncaoAltaOrdemLINQ\FuncaoAltaOrdemLINQ\bin\Debug\FuncaoAltaOrdemLINQ.exe
+C:\Users\lglaj\source\repos\FuncaoAltaOrdemLINQ\FuncaoAltaOrdemLINQ\bin\Debug\FuncaoAltaOrdemLINQ.pdb
+C:\Users\lglaj\source\repos\FuncaoAltaOrdemLINQ\FuncaoAltaOrdemLINQ\obj\Debug\FuncaoAltaOrdemLINQ.csproj.AssemblyReference.cache
+C:\Users\lglaj\source\repos\FuncaoAltaOrdemLINQ\FuncaoAltaOrdemLINQ\obj\Debug\FuncaoAltaOrdemLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\lglaj\source\repos\FuncaoAltaOrdemLINQ\FuncaoAltaOrdemLINQ\obj\Debug\FuncaoAltaOrdemLINQ.csproj.CoreCompileInputs.cache
+C:\Users\lglaj\source\repos\FuncaoAltaOrdemLINQ\FuncaoAltaOrdemLINQ\obj\Debug\FuncaoAltaOrdemLINQ.exe
+C:\Users\lglaj\source\repos\FuncaoAltaOrdemLINQ\FuncaoAltaOrdemLINQ\obj\Debug\FuncaoAltaOrdemLINQ.pdb
